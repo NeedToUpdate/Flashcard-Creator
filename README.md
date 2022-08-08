@@ -22,7 +22,7 @@ the name of the folder
     >
 ```
 
-you can leave it blank, or write your name
+you can leave it blank, or write your name. This will add a light 'made by \_\_\_' to the cards.
 
 ```
     Highlight the first letter? (yes/no/input)
