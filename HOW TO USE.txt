@@ -1,0 +1,42 @@
+Flashcard Creator v1 by Artem
+
+ON WINDOWS:
+
+1. Go to /Install Python/
+2. Double click 'python windows.exe'. Install it.
+3. Double click 'RUN AFTER INSTALL WINDOWS.bat'
+4. Use the create_flashcards.py file in the Create Flashcards Here folder to make flashcards!
+
+ON MAC:
+
+1. Go to /Install Python/
+2. Double click 'python mac.pkg'. Install it.
+3. Open 'Terminal'
+4. type this: 
+	pip3 install reportlab Pillow
+5. press enter
+4. Double click the create_flashcards.py file in the Create Flashcards Here folder. It will open Idle
+5. Click 'run' or F5
+
+
+Example usage:
+
+What is the folder name?
+>ar words
+
+Who is the author?
+> 			(you can leave it blank)
+
+Highlight the first letter? (yes/no/input)
+>input			(yes will make the first letter green)
+			(no will make it all black)
+			(input allows you to choose a custom letter combo)
+
+What should be highlighted?
+>ar 			(in this example, 'ar' in car, arm, target will be green)
+
+press enter, and see your flashcards!
+
+
+
+
